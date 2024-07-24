@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lrj021029
-- 👀 I’m interested in 原神
+- 👀 I’m interested in 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
